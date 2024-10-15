@@ -1,4 +1,5 @@
- 💫 About Me: 
+# 💫 About Me: 
+ 
 <div id="header"r">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ2eWh0aDh2bnNoZGV2N2NxM3Y2enRrMXdldGx3N3p3NGoydGM3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TF9z8Id4LJru8/giphy.gif" width="500"/>
   
